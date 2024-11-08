@@ -6,14 +6,14 @@
 ______________________________________________________________________
 
 <p align="center">
-<a href="https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2416899">Paper</a> ?
-<a href="#Abstract">Abstract</a> ?
-<a href="#Method">Method</a> ?
-<a href="#Dependencies">Installation</a> ?
-<a href="#Dataset">Dataset</a> ?
-<a href="#Training">Training</a> ?
-<a href="#Testing">Testing</a> ?
-<a href="#Pre-trained-models-and-results">Results</a> ?
+<a href="https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2416899">Paper</a> •
+<a href="#Abstract">Abstract</a> •
+<a href="#Method">Method</a> •
+<a href="#Dependencies">Installation</a> •
+<a href="#Dataset">Dataset</a> •
+<a href="#Training">Training</a> •
+<a href="#Testing">Testing</a> •
+<a href="#Pre-trained-models-and-results">Results</a> •
 <a href="#Citation">Citation</a><br>
 </p>
 
