@@ -1,0 +1,21 @@
+name: r_pnn_env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - pytorch-cuda=11.8
+  - pytorch
+  - torchaudio
+  - torchvision
+  - numpy
+  - gdal
+  - scikit-image
+  - scipy
+  - tqdm
+  - scikit-learn
+  - matplotlib
+  - h5py
+  - numba
+  - tensorboardx
+  - opencv
