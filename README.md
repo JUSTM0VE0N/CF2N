@@ -98,26 +98,26 @@ $ python test.py --option_path option.yml
 
 
 ### Pre-trained Models and Results
-#### ? Pre-trained Models
+#### • Pre-trained Models
 #### We provide the trained models at [[download link]](https://drive.google.com/drive/folders/1q3s_6VtsNSfYsWbept1VM1KO0-dMVipN?usp=sharing). You can test it directly with our trained weights.
 
-#### ? The Reduced-resolution test results in the multispectral pan-sharpening task. (Taking WorldView-3 as a example)
+#### • The Reduced-resolution test results in the multispectral pan-sharpening task. (Taking WorldView-3 as a example)
 <br>
 <img src="charts/wv3_rr.png" align=center />
 
-#### ? The Full-resolution test results in the multispectral pan-sharpening task. (Taking QuickBird as a example)
+#### • The Full-resolution test results in the multispectral pan-sharpening task. (Taking QuickBird as a example)
 <br>
 <img src="charts/qb_fr.png" align=center />
 
-#### ? The results in the hyperspectral pan-sharpening task. 
+#### • The results in the hyperspectral pan-sharpening task. 
 <br>
 <img src="charts/hsip.png" align=center />
 
-#### ? The results in the SAR-optical fusion task. 
+#### • The results in the SAR-optical fusion task. 
 <br>
 <img src="charts/sar-optical.png" align=center />
 
-#### ? Visualization of detail representation. 
+#### • Visualization of detail representation. 
 <br>
 <img src="charts/detail_representation.png" align=center />
 
