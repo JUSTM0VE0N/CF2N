@@ -1,0 +1,1 @@
+You can download the MMAPP weights in my google link.
